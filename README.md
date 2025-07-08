@@ -8,30 +8,22 @@ It helps driving schools improve the quality of education based on real feedback
 ## 📱 Screenshots
 
 ### 🏠 Home Page
-![Home](assets/home.png)
+<img src="assets/home.png" width="250"/>
 
 ### 👤 Info Page
-![Info](assets/second.png)
+<img src="assets/second.png" width="250"/>
 
 ### ✅ Question Pages
-
-#### Pergunta 1
-![Question 1](assets/question1.png)
-
-#### Pergunta 2
-![Question 2](assets/question2.png)
-
-#### Pergunta 3
-![Question 3](assets/question3.png)
-
-#### Pergunta 4
-![Question 4](assets/qusetion4.png)
-
-#### Pergunta 5
-![Question 5](assets/qusetion5.png)
+<p align="center">
+  <img src="assets/question1.png" width="120"/>
+  <img src="assets/question2.png" width="120"/>
+  <img src="assets/question3.png" width="120"/>
+  <img src="assets/qusetion4.png" width="120"/>
+  <img src="assets/qusetion5.png" width="120"/>
+</p>
 
 ### 🎉 Thank You Page
-![Thanks](assets/ThanksPage.png)
+<img src="assets/ThanksPage.png" width="250"/>
 
 ---
 
@@ -48,12 +40,14 @@ It helps driving schools improve the quality of education based on real feedback
 
 ## 🧰 Built With
 
+
 - Dart – Programming language optimized for UI
-- Custom reusable widgets (TextFields, Image, End note)
 - Material Design components
+- Custom reusable widgets (TextFields, Image, End note)
 
 ---
 
 📘 **Note**  
 This app was built as a personal learning project to practice key Flutter widgets like `TextField`, `PageView`, `Navigator`, and custom components.
 
+---
