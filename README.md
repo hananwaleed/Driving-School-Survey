@@ -1,16 +1,59 @@
-# simple
+# 🚗 Driving Feedback App
 
-A new Flutter project.
+A mobile feedback app built with Flutter to collect student evaluations about their driving instructor and practical lessons.  
+It helps driving schools improve the quality of education based on real feedback.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### 🏠 Home Page
+![Home](assets/home.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 👤 Info Page
+![Info](assets/second.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ✅ Question Pages
+
+#### Pergunta 1
+![Question 1](assets/question1.png)
+
+#### Pergunta 2
+![Question 2](assets/question2.png)
+
+#### Pergunta 3
+![Question 3](assets/question3.png)
+
+#### Pergunta 4
+![Question 4](assets/qusetion4.png)
+
+#### Pergunta 5
+![Question 5](assets/qusetion5.png)
+
+### 🎉 Thank You Page
+![Thanks](assets/ThanksPage.png)
+
+---
+
+## 💡 Features
+
+- Collects student name, phone number, and current instructor
+- 5 dynamic multiple-choice questions
+- Prevents skipping questions without answering
+- Thank you screen with summary of learning impact
+- Clean, user-friendly UI
+- Custom widgets for reuse and scalability
+
+---
+
+## 🧰 Built With
+
+- Dart – Programming language optimized for UI
+- Custom reusable widgets (TextFields, Image, End note)
+- Material Design components
+
+---
+
+📘 **Note**  
+This app was built as a personal learning project to practice key Flutter widgets like `TextField`, `PageView`, `Navigator`, and custom components.
+
